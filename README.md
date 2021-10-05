@@ -9,6 +9,17 @@ First steps with ML
 5 - Check the output
 6 - Improve
 
+# Tools used
+
+- NumPy
+- Pandas
+- scikit-learn
+- matplotlib
+- jupyter
+- kaggle
+
 # References
+
+[Pandas Cheat Sheet](https://elitedatascience.com/python-cheat-sheet)
 
 [Facebook ML](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
